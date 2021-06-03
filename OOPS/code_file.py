@@ -1,0 +1,1 @@
+print('this file is creared by file_sample')
